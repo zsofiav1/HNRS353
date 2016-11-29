@@ -5,26 +5,26 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "ZV"
+    "text": "aaa"
   },
   "text": {
-    "more": "Test Graphhh",
-    "intro": "Test Graph for A network",
-    "title": "Network1"
+    "more": "This is a test graph about stuff ",
+    "intro": "Test grahh",
+    "title": "Family Graph"
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "Communities",
+    "colorLabel": "Type",
     "nodeLabel": "People"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "TYPE",
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "RELIGION"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
