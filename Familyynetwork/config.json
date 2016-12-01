@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "blah blahhh",
-    "intro": "Graph of the Main Conspirators, those Implicated, the Royal Council, and Royalty",
+    "intro": "Graph of the Main Conspirators and Family Connections",
     "title": "Family Graph"
   },
   "legend": {
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "type",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
