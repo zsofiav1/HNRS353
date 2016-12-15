@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "aaa"
+    "text": "Voros"
   },
   "text": {
-    "more": "Family COnnections; blah blah",
-    "intro": "Graph of the Main Conspirators and Family Connections",
-    "title": "Family Graph"
+    "more": "Network of the full graph with all of the main actors in the Gunpowder Plot. The nodes are again sized based on eigenvector centrality, and the colors are based on their involvement in the Gunpowder Plot.",
+    "intro": "Graph of the Main Conspirators, those Affiliated/Implicated in the Plot, and the Government/Royalty",
+    "title": "Full Graph"
   },
   "legend": {
     "edgeLabel": "Familial Connections",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "type",
+    "groupSelectorAttribute": "TYPE",
     "hoverBehavior": "dim"
   },
   "informationPanel": {

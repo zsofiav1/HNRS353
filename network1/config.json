@@ -5,11 +5,11 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "aaa"
+    "text": "Voros"
   },
   "text": {
-    "more": "blah blahhh",
-    "intro": "Graph of the Main Conspirators and Family Connections",
+    "more": "This network has the node sizes relative to their eigenvector centrality in the network, node colors based on how they were connected to the Gunpowder plot, and the edge colors based on the type of connection they have. \nTen out of the thirteen main conspirators were connected by relation in one large, low density component with an average path length of around 3.35. The three that were not part of the large component were still connected to Robert Catesby in some other, non-familial way; Guy Fawkes was a close childhood and school friend of his, Thomas Bates was his trusted servant, and Sir Everard Digby met him through mutual friend, Jesuit priest Father Garnet. ",
+    "intro": "Graph of the Main Conspirators and their Familial Connections ",
     "title": "Family Graph"
   },
   "legend": {
