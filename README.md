@@ -1,1 +1,1 @@
-HNRS 353: Introduction To Social Network Analysis and Conspiracy Theories
+HNRS 353: Introduction To Social Network Analysis and Conspiracy Theories Final Project
